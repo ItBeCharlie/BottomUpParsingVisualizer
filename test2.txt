@@ -1,0 +1,5 @@
+Q -> S {}
+S -> Aa {#}
+A -> BAb {a,b}
+A -> aa {a,b}
+B -> c {a}
